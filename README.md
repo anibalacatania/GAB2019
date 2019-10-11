@@ -3,7 +3,7 @@
 
 install.packages(
           c("SensoMineR",
-            "readr","missMDA"
+            "readxl","missMDA","car","lmerTest","agricolae","predictmeans"
         
             )
   
